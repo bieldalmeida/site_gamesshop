@@ -94,7 +94,7 @@ section p {
     text-decoration: none;
 }
 
-.contact .container {
+#contact .container {
     display: block;
 }
 
@@ -104,7 +104,7 @@ section p {
 }
 
 form input,
-form textarea
+form textarea,
 form button {
     display: block;
     width: 320px;
